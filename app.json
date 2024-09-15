@@ -20,15 +20,15 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "29346781"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url https://youtu.be/qFB0cFqiyOM?si=9rfd9AawasXLp_oE",
-      "value": "url"
+      "value": "mongodb+srv://SihagBots:585xpplus@cluster0.xik7r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "ultroidxTeam"
+      "value": "Cluster0"
     },
     "SHORTLINK_URL":{
       "description": "Enter your SHORTLINK_URL , add yr shortner url . ",
@@ -48,7 +48,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "75fb004873db1864a09c71cd1307bfa8"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
