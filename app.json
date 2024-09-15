@@ -32,11 +32,11 @@
     },
     "SHORTLINK_URL":{
       "description": "Enter your SHORTLINK_URL , add yr shortner url . ",
-      "value": "api.shareus.io"
+      "value": "indianshortner.com"
     },
     "SHORTLINK_API":{
       "description": "Enter yourSHORTLINK_API , add yr shortner api ",
-      "value": "710b7ed8fdc5f89e9036000cc10121921e7732f1"
+      "value": "c9db82e92c5ac629a3690636f1f73240742a6aa5"
     },
     "IS_VERIFY":{
       "description": "True= (on)or False = (off) , value = True/False ",
